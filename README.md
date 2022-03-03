@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # m_VueTea
 
 ## 一、短信验证码登录|注册
@@ -27,3 +28,29 @@
 1、领导安排(熟悉) 
 
 2、vue合适，比如接触到VR的项目 可能用react更方便 
+=======
+# m_vuetea
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> 635c750... init
